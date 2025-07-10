@@ -1,20 +1,31 @@
-<!-- Profile Header -->
+<!-- Header -->
 <h1 align="center">Hi 👋, I'm Preeti Mallick</h1>
 <h3 align="center">Python Django Developer | Web Designer | Digital Marketer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Preetimallick28&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Preetimallick28?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Preetimallick28?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/contributions/Preetimallick28/2024?label=Contributions" />
+</p>
+
+---
+
+### 🎞️ A Peek Into My World
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="320" alt="coding gif" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **Flight Booking System using Django**
-- 🌱 I’m learning **Advanced Django, REST APIs, and Cloud Integration**
-- 💬 Ask me about **Python, Django, Web Dev, Digital Marketing, and SEO**
-- 🧠 Exploring **Speech Recognition and Smart Automation with ML**
-- ⚡ Fun fact: I love turning ideas into full-fledged applications.
+- 🔭 Working on: **Flight Booking System using Django**
+- 🌱 Learning: **REST APIs, Django Security, and Cloud DevOps**
+- 💬 Ask me about: **Python, Django, SEO, or Full-Stack Web Development**
+- 🧠 Exploring: **Machine Learning + IoT Integration**
+- ⚡ Fun fact: I automate everything I can!
 
 ---
 
@@ -40,6 +51,16 @@
 - 🔗 [🎤 Audio-Speech Recognition (Python + ML)](https://github.com/Preetimallick28/audio-speech-recognition-using-python)
 - 🔗 [📝 Task Management System (Django)](https://github.com/Preetimallick28/task-management-system)
 - 🔗 [✈️ Flight Booking System (Django)](https://github.com/Preetimallick28/flight_booking_system)
+
+---
+
+### ✍️ Latest Blog Posts
+
+> *(Coming Soon: Personal tech blog + tutorials)*  
+Stay tuned for:
+- ✅ Django Signals for Email Verification
+- ✅ Speech Recognition Using Python
+- ✅ Deploying Django Projects on Render & Vercel
 
 ---
 
@@ -70,10 +91,10 @@
 
 ### 🏆 Achievements
 
-- 🥇 Winner in hackathon for **Speech Recognition Project**
-- 📃 Published paper on **Smart Farming using IoT**
-- 🛍️ Built **Easy Checkout** – A complete booking & billing system
-- ✈️ Developed full-featured **Flight Booking System** using Django
+- 🥇 Hackathon Winner – **Speech Recognition with ML**
+- 📘 Published Research – **Smart Farming using IoT**
+- 💡 Creator of **Easy Checkout** – A smart online billing system
+- ✈️ Built full-featured **Flight Booking System** with Django
 
 ---
 
@@ -82,4 +103,3 @@
 > *"Code with purpose. Design with empathy. Deploy with confidence."*
 
 ---
-
